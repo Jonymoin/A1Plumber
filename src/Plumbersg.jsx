@@ -40,7 +40,7 @@ const testimonials = [
   { text: "Fixed our shower choke problem in under 30 minutes. Clean, efficient, and polite. Also replaced our old water heater — great value for money!", name: "Mei Lin T.", location: "Bishan Landed" },
 ];
 
-const badges = ["✅ Free Quote", "✅ No Call-Out Fee", "✅ All Areas in Singapore", "✅ Weekends & PHs"];
+const badges = ["✅ Free Quote", "✅ All Areas in Singapore", "✅ Weekends & PHs"];
 const navLinks = ["Services", "About", "Reviews", "Contact"];
 
 export default function Plumbersg() {
